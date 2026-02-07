@@ -1,7 +1,7 @@
 function Projects() {
   return (
     <section id="projects">
-      <h2>Projects</h2>
+      <h2>Projects I’ve built while learning Frontend Development</h2>
       <div className="projects">
         <a
   href="https://github.com/sarsevanidze77/My-info-Card"
@@ -9,8 +9,8 @@ function Projects() {
   rel="noopener noreferrer"
   className="card"
 >
-  My Info Card
-   (js first project)
+My Info Card (JS)
+   
 </a>
 
 
@@ -20,7 +20,7 @@ function Projects() {
   rel="noopener noreferrer"
   className="card"
 >
-  Individual Project
+  Personal Website
 </a>
 
  <a
@@ -29,7 +29,7 @@ function Projects() {
   rel="noopener noreferrer"
   className="card"
 >
- Amazing Project
+ Learning Project
 </a>
       </div>
     </section>
