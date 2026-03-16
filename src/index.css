@@ -286,3 +286,26 @@ body {
 .contact-item:hover {
   background: #003cff;
 }
+.dark-mode section {
+  background-color: #121212;
+}
+
+.dark-mode {
+  background-color: #0f172a; 
+  color: #ffffff;
+}
+
+.dark-mode section {
+  background-color: #2359a0;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3 {
+  color: #38bdf8;
+}
+
+.dark-mode button {
+  background-color: #003cff;
+  color: #003cff;
+}
